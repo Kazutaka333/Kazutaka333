@@ -1,7 +1,7 @@
 ### Hi there I'm Kaz👋
 
-Seasoned mobile engineer with expertise in iOS. Committed to user-centered software solutions, I prioritize intuitive and seamless user interface experiences.
-My entrepreneurial background in starting a successful startup demonstrates my passion for tackling complex challenges outside my comfort zone. 
+Seasoned iOS Developer 📱🍎
+I previously worked on my live-commerce startup, and then I'm freelancing as an iOS Developer now🚀
 I'm moving to Vancouver this July and seeking for a full-time job there 🇨🇦
 
 In my free time, I enjoy spending time with my wife and doggie (Saku) 🐶
