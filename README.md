@@ -1,7 +1,9 @@
 ### Hi there I'm Kaz👋
 
 Seasoned iOS Developer 📱🍎
+
 I previously worked on my live-commerce startup, and then I'm freelancing as an iOS Developer now🚀
+
 I'm moving to Vancouver this July and seeking for a full-time job there 🇨🇦
 
 In my free time, I enjoy spending time with my wife and doggie (Saku) 🐶
