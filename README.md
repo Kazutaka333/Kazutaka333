@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I'm Kaz👋
+
+Seasoned mobile engineer with expertise in iOS. Committed to user-centered software solutions, I prioritize intuitive and seamless user interface experiences.
+My entrepreneurial background in starting a successful startup demonstrates my passion for tackling complex challenges outside my comfort zone. 
+I'm moving to Vancouver this July and seeking for a full-time job there 🇨🇦
+
+In my free time, I enjoy spending time with my wife and doggie (Saku) 🐶
 
 <!--
 **Kazutaka333/Kazutaka333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
