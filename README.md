@@ -8,9 +8,6 @@ I'm moving to Vancouver this July and seeking for a full-time job there 🇨🇦
 
 In my free time, I enjoy spending time with my wife and doggie (Saku) 🐶
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazutaka333)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **Kazutaka333/Kazutaka333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
